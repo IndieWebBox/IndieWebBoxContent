@@ -40,4 +40,4 @@ This project is about crafting experiences, weaving narratives, and making sure 
 So pick a story, sketch out a design, or write some code—and let’s build a web that’s worth getting lost in.
 
 # How to Contribute -
-1. Upload any illustration or web design of your choice!
+1. Upload any floklore,story or myth of your choice!
